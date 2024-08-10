@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dice
+comment1.params=
+comment1.target=Dice()
+comment2.params=min\ max
+comment2.target=Dice(int,\ int)
+comment3.params=
+comment3.target=void\ roll()
+comment4.params=
+comment4.target=int\ getValue()
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyApp
+comment0.text=\n\ This\ is\ the\ Main\ Class\ for\ your\ JavaFX\ project.\ It\ automatically\ links\ into\ the\ JavaFX\ library\ and\ it\ is\ designed\ to\n\ resemble\ P5.js\ and\ Processing\ in\ terms\ of\ functionality.\n\n\ This\ class\ has\ access\ to\ special\ hidden\ variables\:\n\ \ \ \ \ \ mouse\:\ A\ Mouse\ object\ that\ keeps\ track\ of\ the\ state\ of\ the\ mouse.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ mouse.x\ -\ Mouse's\ current\ x-position\ (double)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ mouse.y\ -\ Mouse's\ current\ y-position\ (double)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ mouse.px\ -\ Mouse's\ previous\ x-position\ (double)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ mouse.py\ -\ Mouse's\ previous\ y-position\ (double)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ mouse.pressed\ -\ True\ if\ Mouse\ button\ is\ pressed\ (boolean)\n\n\ \ \ \ \ \ key\:\ A\ Keyboard\ object\ that\ keeps\ track\ of\ the\ state\ of\ the\ keyboard.\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ key.keyCode\ -\ The\ last/current\ key\ that\ was\ pressed\ if\ it\ was\ a\ keyCode\ (non-standard\ button,\ e.g.\ arrows)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ key.key\ -\ The\ last/current\ key\ that\ was\ presssed\ if\ it\ was\ a\ standard\ key\ (letters,\ numbers,\ whitespace)\n\n\ \ \ \ \ \ window\:\ A\ Window\ object\ that\ keeps\ track\ of\ the\ applications\ window,\ title,\ size\ and\ resizability\n\n\ \ \ \ \ \ matrix\:\ An\ object\ that\ allows\ you\ to\ transform\ your\ sketches\ using\ rotations(deg),\ translations(x,\ y)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ scale(factor)\n\n\ REPLACE\ THIS\ HEADER\ WITH\ A\ PROPER\ HEADER\ DESCRIBING\ YOUR\ PROJECT\n\n\ @author\:\ You\!\ Its\ your\ Template\ so\ put\ your\ name\ here\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=DO\ NOT\ DELETE\ THIS\ METHOD
+comment2.params=pen
+comment2.target=void\ setup(javafx.scene.canvas.GraphicsContext)
+comment2.text=\n\ setup()\ method\ is\ called\ once\ at\ the\ start\ of\ the\ program\n\ @param\ pen\ An\ object\ used\ for\ drawing\ on\ the\ canvas\n
+comment3.params=pen
+comment3.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment3.text=\n\ draw()\ method\ is\ called\ after\ setup().\ It\ is\ called\ over\ and\ over\ at\ regular\ intervals\n\ @param\ pen\ An\ object\ used\ for\ drawing\ on\ the\ canvas\n
+numComments=4

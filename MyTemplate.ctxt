@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MyTemplate
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pen
+comment2.target=void\ setup(javafx.scene.canvas.GraphicsContext)
+comment3.params=pen
+comment3.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+numComments=4

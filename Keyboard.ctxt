@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Keyboard
+comment0.text=\r\n\ This\ class\ represents\ the\ Keyboard\ while\ monitoring\ and\ connecting\ it\ to\ method\ calls\ defined\ by\ the\r\n\ developer.\ \ It\ keeps\ track\ of\ keyCode\ (non-standard\ keys\ like\ arrows)\ and\ keys.\ It\ is\ important\ to\ know\r\n\ that\ either\ an\ keyCode\ or\ key\ occurs,\ but\ never\ both.\ Modifying\ keys\ are\ also\ tracked\ (shift,\ alt,\ ctrl,\r\n\ cmd/window).\r\n\r\n\ This\ class\ does\ not\ emulate\ proper\ encapsulation\ on\ purpose\r\n\r\n\ @author\:\ Adam\ Drenth\r\n\ @version\:\ 12.12.2021\r\n
+comment1.params=pfx\ scene
+comment1.target=Keyboard(ProcessingFX,\ javafx.scene.Scene)
+comment2.params=
+comment2.target=Keyboard\ getKeyboard()
+comment3.params=
+comment3.target=boolean\ isPressed()
+comment4.params=
+comment4.target=javafx.scene.input.KeyCode\ getKeyCode()
+comment5.params=
+comment5.target=char\ getKey()
+comment6.params=pfx\ s
+comment6.target=void\ init(ProcessingFX,\ javafx.scene.Scene)
+comment6.text=\r\n\ Initialization\ method\ for\ that\ ties\ P5.js/Processing-like\ events\ with\ JavaFX\ Keyboard\ events\r\n\ @param\ pfx\ The\ main\ application\ for\ the\ library\r\n\ @param\ s\ The\ main\ Scene\ that\ events\ will\ be\ attached\ to\r\n
+comment7.params=event
+comment7.target=void\ updateOptionKeys(javafx.scene.input.KeyEvent)
+numComments=8

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=theX1\ theY1\ high\ wid\ c\ f\ theWinHeight\ theWinWidth\ theDisWin\ sWin\ fWin
+comment1.target=Rectangle(int,\ int,\ int,\ int,\ javafx.scene.paint.Color,\ javafx.scene.paint.Color,\ int,\ int,\ int,\ javafx.scene.paint.Color,\ javafx.scene.paint.Color)
+comment2.params=pen
+comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+numComments=3

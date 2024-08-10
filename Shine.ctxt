@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Shine
+comment1.params=theX1\ theY1\ s\ f
+comment1.target=Shine(int,\ int,\ int,\ javafx.scene.paint.Color)
+comment2.params=pen
+comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment3.params=
+comment3.target=void\ update()
+comment3.text=\r\n\ makes\ the\ stars\ grow\ bigger\ and\ smaller,\ as\ if\ they\ are\ shining\r\n\ The\ size\ counter\ increments\ to\ track\ the\ state/size\ of\ the\ star\r\n\ If\ the\ counter\ equals\ 8,\ it\ will\ reset\ the\ counter\ \r\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Clouds
+comment1.params=theX1\ theY1\ c\ f
+comment1.target=Clouds(int,\ int,\ javafx.scene.paint.Color,\ javafx.scene.paint.Color)
+comment2.params=pen\ matrix
+comment2.target=void\ draw(javafx.scene.canvas.GraphicsContext,\ Matrix)
+numComments=3

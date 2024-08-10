@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MyExampleApp
+comment0.text=\n\ This\ is\ the\ Main\ Class\ for\ your\ JavaFX\ project.\ It\ automatically\ links\ into\ the\ JavaFX\ library\ and\ it\ is\ designed\ to\n\ resemble\ P5.js\ and\ Processing\ in\ terms\ of\ functionality.\n\n\ REPLACE\ THIS\ HEADER\ WITH\ A\ PROPER\ HEADER\ DESCRIBING\ YOUR\ PROJECT\n\n\ @author\:\ You\!\ Its\ your\ Template\ so\ put\ your\ name\ here\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pen
+comment2.target=void\ setup(javafx.scene.canvas.GraphicsContext)
+comment3.params=pen
+comment3.target=void\ draw(javafx.scene.canvas.GraphicsContext)
+comment4.params=
+comment4.target=void\ mousePressed()
+comment5.params=
+comment5.target=void\ mouseReleased()
+comment6.params=
+comment6.target=void\ keyPressed()
+numComments=7
